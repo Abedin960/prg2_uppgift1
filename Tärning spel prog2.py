@@ -13,8 +13,8 @@ class Spelare:
     def vinn_runda(self):
         self.poäng +=1
 
-Spelare1 = Spelare("Åsna")
-Spelare2 = Spelare("Get")
+Spelare1 = Spelare("Maria")
+Spelare2 = Spelare("Johan")
 
 
     
